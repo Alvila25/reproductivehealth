@@ -96,6 +96,15 @@ section {
     align-items: center;
 }
 
+/* Different Background Colors for Each Section */
+#about { background-color: #f0f8ff; } /* Light Blue */
+#services { background-color: #f4f1de; } /* Beige */
+#resources { background-color: #e9ecef; } /* Light Gray */
+#involvement { background-color: #fbe7c6; } /* Soft Peach */
+#testimonials { background-color: #eaf4f4; } /* Mint */
+#contact { background-color: #d8e2dc; } /* Soft Pink */
+
+/* Container for Centered Content */
 .container {
     max-width: 900px;
     text-align: center;
