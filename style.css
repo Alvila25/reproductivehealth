@@ -97,6 +97,7 @@ section {
 }
 
 /* Different Background Colors for Each Section */
+#home { background-color: #000;}
 #about { background-color: #f0f8ff; } /* Light Blue */
 #services { background-color: #f4f1de; } /* Beige */
 #resources { background-color: #e9ecef; } /* Light Gray */
